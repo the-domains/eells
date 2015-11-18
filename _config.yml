@@ -1,0 +1,23 @@
+name: Eells
+favicon: null
+layout_spectrum: 0.2951711278874427
+typography_spectrum: 0.28499725577421486
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.35568708390928805
+  lightness: 0.21351709798909724
+  saturation: 0.6357884472236037
+  rhythmicContrast: 0.6159803778864443
+purpose: []
